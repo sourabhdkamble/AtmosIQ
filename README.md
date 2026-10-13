@@ -15,6 +15,10 @@ AtmosIQ is a weather dashboard and conversational assistant built with Python, S
 
 ## Architecture
 
+
+![AtmosIQ System Architecture](docs/architecture/AtmosIQ-System-Architecture.svg)
+
+
 ```text
 User
  |
