@@ -1,0 +1,596 @@
+{"text": "What is the temperature in Panvel right now?", "route": "current_weather"}
+{"text": "Is it raining in Mumbai currently?", "route": "current_weather"}
+{"text": "Tell me the current weather in Pune", "route": "current_weather"}
+{"text": "How hot is it outside in Delhi?", "route": "current_weather"}
+{"text": "What will the weather be tomorrow in Panvel?", "route": "forecast"}
+{"text": "Give me the next seven days of weather", "route": "forecast"}
+{"text": "Show me the hourly forecast for Mumbai", "route": "forecast"}
+{"text": "Will it rain this weekend?", "route": "forecast"}
+{"text": "Should I carry an umbrella today?", "route": "weather_advice"}
+{"text": "What clothes should I wear in cold weather?", "route": "weather_advice"}
+{"text": "Is it safe to go running outside in this heat?", "route": "weather_advice"}
+{"text": "What precautions should I take during a thunderstorm?", "route": "weather_advice"}
+{"text": "Explain how humidity works", "route": "knowledge"}
+{"text": "Why does wind make us feel colder?", "route": "knowledge"}
+{"text": "How are monsoons formed?", "route": "knowledge"}
+{"text": "Explain the difference between weather and climate", "route": "knowledge"}
+{"text": "What is the AQI in Mumbai right now?", "route": "air_quality"}
+{"text": "Check PM2.5 levels in Delhi", "route": "air_quality"}
+{"text": "Is air pollution dangerous today?", "route": "air_quality"}
+{"text": "What does an air quality index measure?", "route": "air_quality"}
+{"text": "Give me the hourly forecast for Nagpur.", "route": "forecast"}
+{"text": "What's the AQI in Delhi right now?", "route": "air_quality"}
+{"text": "What's the current air quality in Surat?", "route": "air_quality"}
+{"text": "What's the current air quality in Mumbai?", "route": "air_quality"}
+{"text": "Will tomorrow be sunny in Chennai?", "route": "forecast"}
+{"text": "What precautions should I take in Kolkata during a storm?", "route": "weather_advice"}
+{"text": "Give me the current conditions for Mumbai.", "route": "current_weather"}
+{"text": "Check PM2.5 levels in Nashik.", "route": "air_quality"}
+{"text": "How windy is it in Kolkata at present?", "route": "current_weather"}
+{"text": "What should I carry when travelling in Bengaluru today?", "route": "weather_advice"}
+{"text": "Should I carry an umbrella in Pune today?", "route": "weather_advice"}
+{"text": "Should I carry a raincoat in Hyderabad?", "route": "weather_advice"}
+{"text": "Is the air safe to breathe in Delhi today?", "route": "air_quality"}
+{"text": "What should I wear in Panvel given the weather?", "route": "weather_advice"}
+{"text": "Show the daily forecast for Mumbai.", "route": "forecast"}
+{"text": "Give me the current conditions for Pune.", "route": "current_weather"}
+{"text": "What's the temperature outside in Mumbai today?", "route": "current_weather"}
+{"text": "Check PM2.5 levels in Nagpur.", "route": "air_quality"}
+{"text": "Should I carry a raincoat in Kolkata?", "route": "weather_advice"}
+{"text": "Are pollution levels high in Delhi?", "route": "air_quality"}
+{"text": "How will the weather change in Chennai over the next few days?", "route": "forecast"}
+{"text": "How hot is it outside in Jaipur?", "route": "current_weather"}
+{"text": "What's the temperature in Chennai right now?", "route": "current_weather"}
+{"text": "Is it safe to run outdoors in Nashik today?", "route": "weather_advice"}
+{"text": "Is today a good day for a picnic in Mumbai?", "route": "weather_advice"}
+{"text": "Will it rain in Hyderabad this weekend?", "route": "forecast"}
+{"text": "Check PM2.5 levels in Mumbai.", "route": "air_quality"}
+{"text": "What's the weather forecast for Mumbai tomorrow?", "route": "forecast"}
+{"text": "What's the weather forecast for Chennai tomorrow?", "route": "forecast"}
+{"text": "What will the weather be like in Pune next week?", "route": "forecast"}
+{"text": "Check the current weather for Panvel.", "route": "current_weather"}
+{"text": "How hot is it outside in Bengaluru?", "route": "current_weather"}
+{"text": "How windy is it in Bengaluru at present?", "route": "current_weather"}
+{"text": "Is it raining in Jaipur at the moment?", "route": "current_weather"}
+{"text": "What should I carry when travelling in Kolkata today?", "route": "weather_advice"}
+{"text": "Give me the forecast for the coming days in Nagpur.", "route": "forecast"}
+{"text": "What's the AQI in Mumbai right now?", "route": "air_quality"}
+{"text": "What's expected in Pune over the next 24 hours?", "route": "forecast"}
+{"text": "Should I carry an umbrella in Panvel today?", "route": "weather_advice"}
+{"text": "Will tomorrow be sunny in Delhi?", "route": "forecast"}
+{"text": "Check PM2.5 levels in Chennai.", "route": "air_quality"}
+{"text": "What should I carry when travelling in Chennai today?", "route": "weather_advice"}
+{"text": "Will it rain in Pune this weekend?", "route": "forecast"}
+{"text": "What's the weather like in Nagpur currently?", "route": "current_weather"}
+{"text": "Show me the next seven days in Chennai.", "route": "forecast"}
+{"text": "Give me the latest PM10 reading in Panvel.", "route": "air_quality"}
+{"text": "What will the weather be like in Jaipur next week?", "route": "forecast"}
+{"text": "Give me the forecast for the coming days in Delhi.", "route": "forecast"}
+{"text": "Will tomorrow be sunny in Nagpur?", "route": "forecast"}
+{"text": "How windy is it in Jaipur at present?", "route": "current_weather"}
+{"text": "Can you check today's AQI for Nagpur?", "route": "air_quality"}
+{"text": "What should I carry when travelling in Surat today?", "route": "weather_advice"}
+{"text": "What's the weather like in Pune currently?", "route": "current_weather"}
+{"text": "Will tomorrow be sunny in Bengaluru?", "route": "forecast"}
+{"text": "Check PM2.5 levels in Surat.", "route": "air_quality"}
+{"text": "What's the weather forecast for Jaipur tomorrow?", "route": "forecast"}
+{"text": "What precautions should I take in Bengaluru in strong winds?", "route": "weather_advice"}
+{"text": "Is it safe to run outdoors in Panvel today?", "route": "weather_advice"}
+{"text": "What's the AQI in Kolkata right now?", "route": "air_quality"}
+{"text": "What will the weather be like in Chennai next week?", "route": "forecast"}
+{"text": "How hot is it outside in Panvel?", "route": "current_weather"}
+{"text": "Can you check today's AQI for Hyderabad?", "route": "air_quality"}
+{"text": "What's the weather like in Bengaluru currently?", "route": "current_weather"}
+{"text": "What's the temperature in Delhi right now?", "route": "current_weather"}
+{"text": "What should I carry when travelling in Panvel today?", "route": "weather_advice"}
+{"text": "Is it safe to run outdoors in Delhi today?", "route": "weather_advice"}
+{"text": "How windy is it in Surat at present?", "route": "current_weather"}
+{"text": "Should I carry an umbrella in Bengaluru today?", "route": "weather_advice"}
+{"text": "How windy is it in Delhi at present?", "route": "current_weather"}
+{"text": "What's the air pollution index in Nashik?", "route": "air_quality"}
+{"text": "What will the weather be like in Surat next week?", "route": "forecast"}
+{"text": "How polluted is the air in Bengaluru today?", "route": "air_quality"}
+{"text": "What's expected in Jaipur over the next 24 hours?", "route": "forecast"}
+{"text": "Are pollution levels high in Bengaluru?", "route": "air_quality"}
+{"text": "How polluted is the air in Delhi today?", "route": "air_quality"}
+{"text": "How should I prepare for the heat in Pune?", "route": "weather_advice"}
+{"text": "Will tomorrow be sunny in Nashik?", "route": "forecast"}
+{"text": "Is the air safe to breathe in Bengaluru today?", "route": "air_quality"}
+{"text": "What's the temperature in Nagpur right now?", "route": "current_weather"}
+{"text": "What's the temperature in Hyderabad right now?", "route": "current_weather"}
+{"text": "Is it safe to run outdoors in Pune today?", "route": "weather_advice"}
+{"text": "Should I carry an umbrella in Delhi today?", "route": "weather_advice"}
+{"text": "Show the daily forecast for Chennai.", "route": "forecast"}
+{"text": "How windy is it in Nagpur at present?", "route": "current_weather"}
+{"text": "Would you recommend outdoor exercise in Panvel today?", "route": "weather_advice"}
+{"text": "Give me the latest PM10 reading in Kolkata.", "route": "air_quality"}
+{"text": "Should I carry a raincoat in Delhi?", "route": "weather_advice"}
+{"text": "Tell me the current weather in Pune.", "route": "current_weather"}
+{"text": "Give me the current conditions for Bengaluru.", "route": "current_weather"}
+{"text": "What's expected in Surat over the next 24 hours?", "route": "forecast"}
+{"text": "What should I wear in Bengaluru given the weather?", "route": "weather_advice"}
+{"text": "How will the weather change in Jaipur over the next few days?", "route": "forecast"}
+{"text": "What's the temperature outside in Delhi today?", "route": "current_weather"}
+{"text": "Show the daily forecast for Pune.", "route": "forecast"}
+{"text": "Will it rain in Mumbai this weekend?", "route": "forecast"}
+{"text": "Will it rain in Delhi this weekend?", "route": "forecast"}
+{"text": "Give me the hourly forecast for Chennai.", "route": "forecast"}
+{"text": "Give me the forecast for the coming days in Chennai.", "route": "forecast"}
+{"text": "Can you check today's AQI for Delhi?", "route": "air_quality"}
+{"text": "Show me the next seven days in Nagpur.", "route": "forecast"}
+{"text": "Would you recommend outdoor exercise in Jaipur today?", "route": "weather_advice"}
+{"text": "How windy is it in Panvel at present?", "route": "current_weather"}
+{"text": "Can you check today's AQI for Panvel?", "route": "air_quality"}
+{"text": "What should I carry when travelling in Nagpur today?", "route": "weather_advice"}
+{"text": "Check PM2.5 levels in Pune.", "route": "air_quality"}
+{"text": "How does air pressure affect weather?", "route": "knowledge"}
+{"text": "Is today a good day for a picnic in Chennai?", "route": "weather_advice"}
+{"text": "How hot is it outside in Pune?", "route": "current_weather"}
+{"text": "What's the air pollution index in Nagpur?", "route": "air_quality"}
+{"text": "Is it cloudy in Jaipur right now?", "route": "current_weather"}
+{"text": "What's the temperature outside in Surat today?", "route": "current_weather"}
+{"text": "Would you recommend outdoor exercise in Delhi today?", "route": "weather_advice"}
+{"text": "Give me the hourly forecast for Mumbai.", "route": "forecast"}
+{"text": "Would you recommend outdoor exercise in Kolkata today?", "route": "weather_advice"}
+{"text": "Give me the hourly forecast for Jaipur.", "route": "forecast"}
+{"text": "Tell me the current weather in Chennai.", "route": "current_weather"}
+{"text": "How will the weather change in Nagpur over the next few days?", "route": "forecast"}
+{"text": "What's the temperature in Kolkata right now?", "route": "current_weather"}
+{"text": "What should I wear in Surat given the weather?", "route": "weather_advice"}
+{"text": "What's the air pollution index in Jaipur?", "route": "air_quality"}
+{"text": "Give me the forecast for the coming days in Surat.", "route": "forecast"}
+{"text": "What should I carry when travelling in Pune today?", "route": "weather_advice"}
+{"text": "What should I carry when travelling in Nashik today?", "route": "weather_advice"}
+{"text": "What precautions should I take in Surat during a storm?", "route": "weather_advice"}
+{"text": "Will tomorrow be sunny in Jaipur?", "route": "forecast"}
+{"text": "Is it cloudy in Kolkata right now?", "route": "current_weather"}
+{"text": "What precautions should I take in Nashik in strong winds?", "route": "weather_advice"}
+{"text": "How will the weather change in Hyderabad over the next few days?", "route": "forecast"}
+{"text": "Show me the next seven days in Mumbai.", "route": "forecast"}
+{"text": "What's the temperature in Pune right now?", "route": "current_weather"}
+{"text": "What should I wear in Pune given the weather?", "route": "weather_advice"}
+{"text": "How will the weather change in Delhi over the next few days?", "route": "forecast"}
+{"text": "What's the air pollution index in Panvel?", "route": "air_quality"}
+{"text": "Give me the current conditions for Delhi.", "route": "current_weather"}
+{"text": "Should I carry an umbrella in Hyderabad today?", "route": "weather_advice"}
+{"text": "What's the air pollution index in Mumbai?", "route": "air_quality"}
+{"text": "What will the weather be like in Nagpur next week?", "route": "forecast"}
+{"text": "Is it safe to run outdoors in Bengaluru today?", "route": "weather_advice"}
+{"text": "Show me the next seven days in Jaipur.", "route": "forecast"}
+{"text": "Are pollution levels high in Jaipur?", "route": "air_quality"}
+{"text": "Is it cloudy in Hyderabad right now?", "route": "current_weather"}
+{"text": "Will it rain in Kolkata this weekend?", "route": "forecast"}
+{"text": "Show me the next seven days in Panvel.", "route": "forecast"}
+{"text": "How polluted is the air in Nashik today?", "route": "air_quality"}
+{"text": "Give me the hourly forecast for Surat.", "route": "forecast"}
+{"text": "Is today a good day for a picnic in Nashik?", "route": "weather_advice"}
+{"text": "Give me the hourly forecast for Panvel.", "route": "forecast"}
+{"text": "Are pollution levels high in Pune?", "route": "air_quality"}
+{"text": "Give me the forecast for the coming days in Panvel.", "route": "forecast"}
+{"text": "Check PM2.5 levels in Bengaluru.", "route": "air_quality"}
+{"text": "Is today a good day for a picnic in Surat?", "route": "weather_advice"}
+{"text": "Is it raining in Bengaluru at the moment?", "route": "current_weather"}
+{"text": "Are pollution levels high in Kolkata?", "route": "air_quality"}
+{"text": "Is it raining in Kolkata at the moment?", "route": "current_weather"}
+{"text": "What's the weather forecast for Surat tomorrow?", "route": "forecast"}
+{"text": "Will it rain in Chennai this weekend?", "route": "forecast"}
+{"text": "Should I carry a raincoat in Nashik?", "route": "weather_advice"}
+{"text": "What's the AQI in Surat right now?", "route": "air_quality"}
+{"text": "How should I prepare for the heat in Delhi?", "route": "weather_advice"}
+{"text": "What's the current air quality in Nagpur?", "route": "air_quality"}
+{"text": "Give me the hourly forecast for Bengaluru.", "route": "forecast"}
+{"text": "How should I prepare for the heat in Jaipur?", "route": "weather_advice"}
+{"text": "What precautions should I take in Delhi during a storm?", "route": "weather_advice"}
+{"text": "What should I carry when travelling in Hyderabad today?", "route": "weather_advice"}
+{"text": "Show the daily forecast for Delhi.", "route": "forecast"}
+{"text": "Is the air safe to breathe in Chennai today?", "route": "air_quality"}
+{"text": "What's the current air quality in Nashik?", "route": "air_quality"}
+{"text": "Is it raining in Pune at the moment?", "route": "current_weather"}
+{"text": "What's the weather like in Chennai currently?", "route": "current_weather"}
+{"text": "Give me the current conditions for Nashik.", "route": "current_weather"}
+{"text": "Will tomorrow be sunny in Hyderabad?", "route": "forecast"}
+{"text": "How hot is it outside in Nashik?", "route": "current_weather"}
+{"text": "Show the daily forecast for Kolkata.", "route": "forecast"}
+{"text": "How polluted is the air in Surat today?", "route": "air_quality"}
+{"text": "Check PM2.5 levels in Panvel.", "route": "air_quality"}
+{"text": "What precautions should I take in Surat in strong winds?", "route": "weather_advice"}
+{"text": "What's the current air quality in Bengaluru?", "route": "air_quality"}
+{"text": "Is it cloudy in Chennai right now?", "route": "current_weather"}
+{"text": "What's the temperature outside in Nashik today?", "route": "current_weather"}
+{"text": "What's the air pollution index in Kolkata?", "route": "air_quality"}
+{"text": "What's the temperature outside in Panvel today?", "route": "current_weather"}
+{"text": "Show the daily forecast for Surat.", "route": "forecast"}
+{"text": "Give me the forecast for the coming days in Pune.", "route": "forecast"}
+{"text": "What precautions should I take in Panvel during a storm?", "route": "weather_advice"}
+{"text": "Should I carry a raincoat in Panvel?", "route": "weather_advice"}
+{"text": "Should I carry a raincoat in Bengaluru?", "route": "weather_advice"}
+{"text": "Should I carry an umbrella in Jaipur today?", "route": "weather_advice"}
+{"text": "Can you check today's AQI for Jaipur?", "route": "air_quality"}
+{"text": "How hot is it outside in Hyderabad?", "route": "current_weather"}
+{"text": "How polluted is the air in Pune today?", "route": "air_quality"}
+{"text": "How will the weather change in Mumbai over the next few days?", "route": "forecast"}
+{"text": "Are pollution levels high in Mumbai?", "route": "air_quality"}
+{"text": "What should I wear in Jaipur given the weather?", "route": "weather_advice"}
+{"text": "Should I carry an umbrella in Chennai today?", "route": "weather_advice"}
+{"text": "What's the AQI in Bengaluru right now?", "route": "air_quality"}
+{"text": "Check current particulate pollution in Jaipur.", "route": "air_quality"}
+{"text": "What's the AQI in Hyderabad right now?", "route": "air_quality"}
+{"text": "Check current particulate pollution in Chennai.", "route": "air_quality"}
+{"text": "Check the current weather for Bengaluru.", "route": "current_weather"}
+{"text": "Is it raining in Chennai at the moment?", "route": "current_weather"}
+{"text": "Will tomorrow be sunny in Kolkata?", "route": "forecast"}
+{"text": "Check the current weather for Surat.", "route": "current_weather"}
+{"text": "Should I carry an umbrella in Nagpur today?", "route": "weather_advice"}
+{"text": "Would you recommend outdoor exercise in Hyderabad today?", "route": "weather_advice"}
+{"text": "What's expected in Mumbai over the next 24 hours?", "route": "forecast"}
+{"text": "Should I carry a raincoat in Mumbai?", "route": "weather_advice"}
+{"text": "Check current particulate pollution in Bengaluru.", "route": "air_quality"}
+{"text": "How polluted is the air in Mumbai today?", "route": "air_quality"}
+{"text": "Are pollution levels high in Hyderabad?", "route": "air_quality"}
+{"text": "Can you check today's AQI for Chennai?", "route": "air_quality"}
+{"text": "Tell me the current weather in Nashik.", "route": "current_weather"}
+{"text": "How should I prepare for the heat in Mumbai?", "route": "weather_advice"}
+{"text": "How windy is it in Pune at present?", "route": "current_weather"}
+{"text": "What precautions should I take in Hyderabad in strong winds?", "route": "weather_advice"}
+{"text": "What's the temperature outside in Chennai today?", "route": "current_weather"}
+{"text": "What's the air pollution index in Bengaluru?", "route": "air_quality"}
+{"text": "Tell me the current weather in Panvel.", "route": "current_weather"}
+{"text": "Is the air safe to breathe in Panvel today?", "route": "air_quality"}
+{"text": "Will it rain in Nagpur this weekend?", "route": "forecast"}
+{"text": "Are pollution levels high in Surat?", "route": "air_quality"}
+{"text": "Is the air safe to breathe in Nagpur today?", "route": "air_quality"}
+{"text": "How polluted is the air in Chennai today?", "route": "air_quality"}
+{"text": "Give me the forecast for the coming days in Bengaluru.", "route": "forecast"}
+{"text": "What's the current air quality in Panvel?", "route": "air_quality"}
+{"text": "What's the temperature outside in Jaipur today?", "route": "current_weather"}
+{"text": "What precautions should I take in Pune during a storm?", "route": "weather_advice"}
+{"text": "How windy is it in Hyderabad at present?", "route": "current_weather"}
+{"text": "Give me the latest PM10 reading in Mumbai.", "route": "air_quality"}
+{"text": "What will the weather be like in Mumbai next week?", "route": "forecast"}
+{"text": "What's expected in Bengaluru over the next 24 hours?", "route": "forecast"}
+{"text": "Would you recommend outdoor exercise in Bengaluru today?", "route": "weather_advice"}
+{"text": "What's the weather like in Mumbai currently?", "route": "current_weather"}
+{"text": "What's the temperature outside in Kolkata today?", "route": "current_weather"}
+{"text": "Will tomorrow be sunny in Pune?", "route": "forecast"}
+{"text": "Should I carry an umbrella in Mumbai today?", "route": "weather_advice"}
+{"text": "How will the weather change in Kolkata over the next few days?", "route": "forecast"}
+{"text": "Is it cloudy in Pune right now?", "route": "current_weather"}
+{"text": "What's the weather forecast for Panvel tomorrow?", "route": "forecast"}
+{"text": "Give me the hourly forecast for Nashik.", "route": "forecast"}
+{"text": "Give me the hourly forecast for Pune.", "route": "forecast"}
+{"text": "Give me the forecast for the coming days in Jaipur.", "route": "forecast"}
+{"text": "How should I prepare for the heat in Hyderabad?", "route": "weather_advice"}
+{"text": "Should I carry a raincoat in Jaipur?", "route": "weather_advice"}
+{"text": "What's the AQI in Nagpur right now?", "route": "air_quality"}
+{"text": "Are pollution levels high in Nagpur?", "route": "air_quality"}
+{"text": "What's the weather forecast for Delhi tomorrow?", "route": "forecast"}
+{"text": "What will the weather be like in Nashik next week?", "route": "forecast"}
+{"text": "What precautions should I take in Kolkata in strong winds?", "route": "weather_advice"}
+{"text": "Is it cloudy in Mumbai right now?", "route": "current_weather"}
+{"text": "What's the weather forecast for Nagpur tomorrow?", "route": "forecast"}
+{"text": "Is it raining in Hyderabad at the moment?", "route": "current_weather"}
+{"text": "What will the weather be like in Panvel next week?", "route": "forecast"}
+{"text": "What's the AQI in Pune right now?", "route": "air_quality"}
+{"text": "Tell me the current weather in Surat.", "route": "current_weather"}
+{"text": "What should I wear in Nagpur given the weather?", "route": "weather_advice"}
+{"text": "Tell me the current weather in Hyderabad.", "route": "current_weather"}
+{"text": "Check PM2.5 levels in Jaipur.", "route": "air_quality"}
+{"text": "Give me the latest PM10 reading in Jaipur.", "route": "air_quality"}
+{"text": "Check current particulate pollution in Panvel.", "route": "air_quality"}
+{"text": "Check PM2.5 levels in Delhi.", "route": "air_quality"}
+{"text": "What's the temperature in Surat right now?", "route": "current_weather"}
+{"text": "What will the weather be like in Bengaluru next week?", "route": "forecast"}
+{"text": "How should I prepare for the heat in Surat?", "route": "weather_advice"}
+{"text": "Check the current weather for Chennai.", "route": "current_weather"}
+{"text": "What precautions should I take in Chennai in strong winds?", "route": "weather_advice"}
+{"text": "Is it cloudy in Panvel right now?", "route": "current_weather"}
+{"text": "What's expected in Nashik over the next 24 hours?", "route": "forecast"}
+{"text": "Is it safe to run outdoors in Mumbai today?", "route": "weather_advice"}
+{"text": "Give me the forecast for the coming days in Kolkata.", "route": "forecast"}
+{"text": "Is today a good day for a picnic in Hyderabad?", "route": "weather_advice"}
+{"text": "What precautions should I take in Mumbai in strong winds?", "route": "weather_advice"}
+{"text": "Will it rain in Nashik this weekend?", "route": "forecast"}
+{"text": "What's the temperature outside in Hyderabad today?", "route": "current_weather"}
+{"text": "Is today a good day for a picnic in Delhi?", "route": "weather_advice"}
+{"text": "Why do clouds form?", "route": "knowledge"}
+{"text": "Would you recommend outdoor exercise in Mumbai today?", "route": "weather_advice"}
+{"text": "What's the current air quality in Jaipur?", "route": "air_quality"}
+{"text": "Give me the latest PM10 reading in Bengaluru.", "route": "air_quality"}
+{"text": "How windy is it in Mumbai at present?", "route": "current_weather"}
+{"text": "What precautions should I take in Bengaluru during a storm?", "route": "weather_advice"}
+{"text": "Should I carry an umbrella in Nashik today?", "route": "weather_advice"}
+{"text": "Is it cloudy in Bengaluru right now?", "route": "current_weather"}
+{"text": "Is it cloudy in Delhi right now?", "route": "current_weather"}
+{"text": "Is it safe to run outdoors in Kolkata today?", "route": "weather_advice"}
+{"text": "Give me the latest PM10 reading in Nagpur.", "route": "air_quality"}
+{"text": "Should I carry an umbrella in Kolkata today?", "route": "weather_advice"}
+{"text": "How hot is it outside in Chennai?", "route": "current_weather"}
+{"text": "What's the current air quality in Pune?", "route": "air_quality"}
+{"text": "Is the air safe to breathe in Kolkata today?", "route": "air_quality"}
+{"text": "What's the weather forecast for Nashik tomorrow?", "route": "forecast"}
+{"text": "Tell me the current weather in Bengaluru.", "route": "current_weather"}
+{"text": "What's the weather forecast for Pune tomorrow?", "route": "forecast"}
+{"text": "Will it rain in Panvel this weekend?", "route": "forecast"}
+{"text": "Would you recommend outdoor exercise in Nagpur today?", "route": "weather_advice"}
+{"text": "Give me the latest PM10 reading in Chennai.", "route": "air_quality"}
+{"text": "What's the temperature in Jaipur right now?", "route": "current_weather"}
+{"text": "Should I carry an umbrella in Surat today?", "route": "weather_advice"}
+{"text": "Will it rain in Jaipur this weekend?", "route": "forecast"}
+{"text": "What's the temperature in Mumbai right now?", "route": "current_weather"}
+{"text": "Is it safe to run outdoors in Chennai today?", "route": "weather_advice"}
+{"text": "What precautions should I take in Mumbai during a storm?", "route": "weather_advice"}
+{"text": "Give me the current conditions for Surat.", "route": "current_weather"}
+{"text": "Show the daily forecast for Nagpur.", "route": "forecast"}
+{"text": "Would you recommend outdoor exercise in Nashik today?", "route": "weather_advice"}
+{"text": "Is the air safe to breathe in Jaipur today?", "route": "air_quality"}
+{"text": "What should I carry when travelling in Mumbai today?", "route": "weather_advice"}
+{"text": "Give me the hourly forecast for Kolkata.", "route": "forecast"}
+{"text": "What's the weather like in Hyderabad currently?", "route": "current_weather"}
+{"text": "What should I wear in Chennai given the weather?", "route": "weather_advice"}
+{"text": "How windy is it in Chennai at present?", "route": "current_weather"}
+{"text": "What should I wear in Delhi given the weather?", "route": "weather_advice"}
+{"text": "Check current particulate pollution in Mumbai.", "route": "air_quality"}
+{"text": "What's the temperature in Panvel right now?", "route": "current_weather"}
+{"text": "How polluted is the air in Jaipur today?", "route": "air_quality"}
+{"text": "Give me the current conditions for Kolkata.", "route": "current_weather"}
+{"text": "Give me the forecast for the coming days in Hyderabad.", "route": "forecast"}
+{"text": "Can you check today's AQI for Nashik?", "route": "air_quality"}
+{"text": "Check current particulate pollution in Surat.", "route": "air_quality"}
+{"text": "Give me the latest PM10 reading in Surat.", "route": "air_quality"}
+{"text": "What's the current air quality in Delhi?", "route": "air_quality"}
+{"text": "Can you check today's AQI for Kolkata?", "route": "air_quality"}
+{"text": "What's the weather like in Surat currently?", "route": "current_weather"}
+{"text": "What's the temperature in Bengaluru right now?", "route": "current_weather"}
+{"text": "What precautions should I take in Chennai during a storm?", "route": "weather_advice"}
+{"text": "What's the weather forecast for Kolkata tomorrow?", "route": "forecast"}
+{"text": "Is it safe to run outdoors in Hyderabad today?", "route": "weather_advice"}
+{"text": "What's expected in Nagpur over the next 24 hours?", "route": "forecast"}
+{"text": "What's the difference between weather and climate?", "route": "knowledge"}
+{"text": "How will the weather change in Nashik over the next few days?", "route": "forecast"}
+{"text": "How will the weather change in Bengaluru over the next few days?", "route": "forecast"}
+{"text": "Tell me the current weather in Kolkata.", "route": "current_weather"}
+{"text": "Is today a good day for a picnic in Bengaluru?", "route": "weather_advice"}
+{"text": "Give me the latest PM10 reading in Delhi.", "route": "air_quality"}
+{"text": "Give me the latest PM10 reading in Hyderabad.", "route": "air_quality"}
+{"text": "Can you check today's AQI for Pune?", "route": "air_quality"}
+{"text": "Give me the current conditions for Hyderabad.", "route": "current_weather"}
+{"text": "What's the weather like in Kolkata currently?", "route": "current_weather"}
+{"text": "Tell me the current weather in Mumbai.", "route": "current_weather"}
+{"text": "How hot is it outside in Surat?", "route": "current_weather"}
+{"text": "What should I wear in Mumbai given the weather?", "route": "weather_advice"}
+{"text": "What should I wear in Kolkata given the weather?", "route": "weather_advice"}
+{"text": "Is it cloudy in Surat right now?", "route": "current_weather"}
+{"text": "Check current particulate pollution in Nashik.", "route": "air_quality"}
+{"text": "Can you check today's AQI for Mumbai?", "route": "air_quality"}
+{"text": "Will tomorrow be sunny in Mumbai?", "route": "forecast"}
+{"text": "Should I carry a raincoat in Surat?", "route": "weather_advice"}
+{"text": "Give me the forecast for the coming days in Nashik.", "route": "forecast"}
+{"text": "Should I carry a raincoat in Nagpur?", "route": "weather_advice"}
+{"text": "Show me the next seven days in Pune.", "route": "forecast"}
+{"text": "Is it safe to run outdoors in Nagpur today?", "route": "weather_advice"}
+{"text": "Is the air safe to breathe in Surat today?", "route": "air_quality"}
+{"text": "What's the weather forecast for Hyderabad tomorrow?", "route": "forecast"}
+{"text": "Check current particulate pollution in Delhi.", "route": "air_quality"}
+{"text": "Are pollution levels high in Panvel?", "route": "air_quality"}
+{"text": "Give me the current conditions for Panvel.", "route": "current_weather"}
+{"text": "What's expected in Hyderabad over the next 24 hours?", "route": "forecast"}
+{"text": "How should I prepare for the heat in Bengaluru?", "route": "weather_advice"}
+{"text": "How will the weather change in Surat over the next few days?", "route": "forecast"}
+{"text": "What should I wear in Nashik given the weather?", "route": "weather_advice"}
+{"text": "How should I prepare for the heat in Nagpur?", "route": "weather_advice"}
+{"text": "Explain the water cycle simply.", "route": "knowledge"}
+{"text": "What's the AQI in Panvel right now?", "route": "air_quality"}
+{"text": "Should I carry a raincoat in Pune?", "route": "weather_advice"}
+{"text": "Check the current weather for Mumbai.", "route": "current_weather"}
+{"text": "Tell me the current weather in Jaipur.", "route": "current_weather"}
+{"text": "Show me the next seven days in Bengaluru.", "route": "forecast"}
+{"text": "Will tomorrow be sunny in Panvel?", "route": "forecast"}
+{"text": "Will it rain in Bengaluru this weekend?", "route": "forecast"}
+{"text": "What's the air pollution index in Hyderabad?", "route": "air_quality"}
+{"text": "Check the current weather for Jaipur.", "route": "current_weather"}
+{"text": "Tell me the current weather in Delhi.", "route": "current_weather"}
+{"text": "Will it rain in Surat this weekend?", "route": "forecast"}
+{"text": "What precautions should I take in Pune in strong winds?", "route": "weather_advice"}
+{"text": "Is the air safe to breathe in Nashik today?", "route": "air_quality"}
+{"text": "What precautions should I take in Jaipur during a storm?", "route": "weather_advice"}
+{"text": "What precautions should I take in Delhi in strong winds?", "route": "weather_advice"}
+{"text": "Check current particulate pollution in Nagpur.", "route": "air_quality"}
+{"text": "Show me the next seven days in Hyderabad.", "route": "forecast"}
+{"text": "How polluted is the air in Nagpur today?", "route": "air_quality"}
+{"text": "What's expected in Kolkata over the next 24 hours?", "route": "forecast"}
+{"text": "How polluted is the air in Hyderabad today?", "route": "air_quality"}
+{"text": "Check current particulate pollution in Hyderabad.", "route": "air_quality"}
+{"text": "Can you check today's AQI for Surat?", "route": "air_quality"}
+{"text": "Is it safe to run outdoors in Jaipur today?", "route": "weather_advice"}
+{"text": "How windy is it in Nashik at present?", "route": "current_weather"}
+{"text": "How polluted is the air in Kolkata today?", "route": "air_quality"}
+{"text": "Is today a good day for a picnic in Nagpur?", "route": "weather_advice"}
+{"text": "How hot is it outside in Mumbai?", "route": "current_weather"}
+{"text": "How should I prepare for the heat in Chennai?", "route": "weather_advice"}
+{"text": "What precautions should I take in Panvel in strong winds?", "route": "weather_advice"}
+{"text": "Is the air safe to breathe in Hyderabad today?", "route": "air_quality"}
+{"text": "Show me the next seven days in Delhi.", "route": "forecast"}
+{"text": "Would you recommend outdoor exercise in Chennai today?", "route": "weather_advice"}
+{"text": "What's the temperature outside in Nagpur today?", "route": "current_weather"}
+{"text": "Show the daily forecast for Panvel.", "route": "forecast"}
+{"text": "Show the daily forecast for Jaipur.", "route": "forecast"}
+{"text": "Give me the current conditions for Nagpur.", "route": "current_weather"}
+{"text": "Show the daily forecast for Hyderabad.", "route": "forecast"}
+{"text": "How should I prepare for the heat in Panvel?", "route": "weather_advice"}
+{"text": "What's expected in Delhi over the next 24 hours?", "route": "forecast"}
+{"text": "Give me the latest PM10 reading in Pune.", "route": "air_quality"}
+{"text": "Are pollution levels high in Chennai?", "route": "air_quality"}
+{"text": "What's the weather like in Nashik currently?", "route": "current_weather"}
+{"text": "What's the air pollution index in Pune?", "route": "air_quality"}
+{"text": "Can you check today's AQI for Bengaluru?", "route": "air_quality"}
+{"text": "Give me the hourly forecast for Delhi.", "route": "forecast"}
+{"text": "How polluted is the air in Panvel today?", "route": "air_quality"}
+{"text": "Check the current weather for Kolkata.", "route": "current_weather"}
+{"text": "Would you recommend outdoor exercise in Pune today?", "route": "weather_advice"}
+{"text": "Is it raining in Nagpur at the moment?", "route": "current_weather"}
+{"text": "Tell me the current weather in Nagpur.", "route": "current_weather"}
+{"text": "Explain how humidity works.", "route": "knowledge"}
+{"text": "What's the temperature outside in Pune today?", "route": "current_weather"}
+{"text": "Should I carry a raincoat in Chennai?", "route": "weather_advice"}
+{"text": "Show the daily forecast for Bengaluru.", "route": "forecast"}
+{"text": "What should I carry when travelling in Delhi today?", "route": "weather_advice"}
+{"text": "What should I carry when travelling in Jaipur today?", "route": "weather_advice"}
+{"text": "Give me the hourly forecast for Hyderabad.", "route": "forecast"}
+{"text": "What precautions should I take in Hyderabad during a storm?", "route": "weather_advice"}
+{"text": "How will the weather change in Panvel over the next few days?", "route": "forecast"}
+{"text": "Is it cloudy in Nashik right now?", "route": "current_weather"}
+{"text": "Is it safe to run outdoors in Surat today?", "route": "weather_advice"}
+{"text": "What's expected in Chennai over the next 24 hours?", "route": "forecast"}
+{"text": "What's the AQI in Nashik right now?", "route": "air_quality"}
+{"text": "Is it raining in Surat at the moment?", "route": "current_weather"}
+{"text": "What's the current air quality in Chennai?", "route": "air_quality"}
+{"text": "Show me the next seven days in Nashik.", "route": "forecast"}
+{"text": "Is today a good day for a picnic in Jaipur?", "route": "weather_advice"}
+{"text": "What will the weather be like in Kolkata next week?", "route": "forecast"}
+{"text": "Are pollution levels high in Nashik?", "route": "air_quality"}
+{"text": "Show the daily forecast for Nashik.", "route": "forecast"}
+{"text": "What's the weather like in Panvel currently?", "route": "current_weather"}
+{"text": "How will the weather change in Pune over the next few days?", "route": "forecast"}
+{"text": "What's the air pollution index in Delhi?", "route": "air_quality"}
+{"text": "Check current particulate pollution in Pune.", "route": "air_quality"}
+{"text": "What will the weather be like in Delhi next week?", "route": "forecast"}
+{"text": "Check PM2.5 levels in Kolkata.", "route": "air_quality"}
+{"text": "Check the current weather for Pune.", "route": "current_weather"}
+{"text": "Give me the current conditions for Chennai.", "route": "current_weather"}
+{"text": "Is the air safe to breathe in Mumbai today?", "route": "air_quality"}
+{"text": "What will the weather be like in Hyderabad next week?", "route": "forecast"}
+{"text": "What's the air pollution index in Chennai?", "route": "air_quality"}
+{"text": "What precautions should I take in Jaipur in strong winds?", "route": "weather_advice"}
+{"text": "Give me the current conditions for Jaipur.", "route": "current_weather"}
+{"text": "What's the current air quality in Hyderabad?", "route": "air_quality"}
+{"text": "Check PM2.5 levels in Hyderabad.", "route": "air_quality"}
+{"text": "What's the temperature in Nashik right now?", "route": "current_weather"}
+{"text": "Give me the latest PM10 reading in Nashik.", "route": "air_quality"}
+{"text": "What's the current air quality in Kolkata?", "route": "air_quality"}
+{"text": "Show me the next seven days in Surat.", "route": "forecast"}
+{"text": "Is today a good day for a picnic in Panvel?", "route": "weather_advice"}
+{"text": "What's expected in Panvel over the next 24 hours?", "route": "forecast"}
+{"text": "Check the current weather for Delhi.", "route": "current_weather"}
+{"text": "Will tomorrow be sunny in Surat?", "route": "forecast"}
+{"text": "What's the air pollution index in Surat?", "route": "air_quality"}
+{"text": "What precautions should I take in Nagpur in strong winds?", "route": "weather_advice"}
+{"text": "How should I prepare for the heat in Kolkata?", "route": "weather_advice"}
+{"text": "What causes thunderstorms?", "route": "knowledge"}
+{"text": "What's the temperature outside in Bengaluru today?", "route": "current_weather"}
+{"text": "What precautions should I take in Nagpur during a storm?", "route": "weather_advice"}
+{"text": "Is it raining in Panvel at the moment?", "route": "current_weather"}
+{"text": "Is today a good day for a picnic in Kolkata?", "route": "weather_advice"}
+{"text": "What should I wear in Hyderabad given the weather?", "route": "weather_advice"}
+{"text": "Check the current weather for Nagpur.", "route": "current_weather"}
+{"text": "Check the current weather for Nashik.", "route": "current_weather"}
+{"text": "How hot is it outside in Nagpur?", "route": "current_weather"}
+{"text": "Is it raining in Nashik at the moment?", "route": "current_weather"}
+{"text": "Is it raining in Delhi at the moment?", "route": "current_weather"}
+{"text": "Give me the forecast for the coming days in Mumbai.", "route": "forecast"}
+{"text": "Is today a good day for a picnic in Pune?", "route": "weather_advice"}
+{"text": "How hot is it outside in Kolkata?", "route": "current_weather"}
+{"text": "What precautions should I take in Nashik during a storm?", "route": "weather_advice"}
+{"text": "Is the air safe to breathe in Pune today?", "route": "air_quality"}
+{"text": "Check current particulate pollution in Kolkata.", "route": "air_quality"}
+{"text": "Would you recommend outdoor exercise in Surat today?", "route": "weather_advice"}
+{"text": "What's the weather like in Delhi currently?", "route": "current_weather"}
+{"text": "What's the AQI in Chennai right now?", "route": "air_quality"}
+{"text": "Is it cloudy in Nagpur right now?", "route": "current_weather"}
+{"text": "Check the current weather for Hyderabad.", "route": "current_weather"}
+{"text": "What's the weather forecast for Bengaluru tomorrow?", "route": "forecast"}
+{"text": "Show me the next seven days in Kolkata.", "route": "forecast"}
+{"text": "What's the AQI in Jaipur right now?", "route": "air_quality"}
+{"text": "Is it raining in Mumbai at the moment?", "route": "current_weather"}
+{"text": "What's the weather like in Jaipur currently?", "route": "current_weather"}
+{"text": "How should I prepare for the heat in Nashik?", "route": "weather_advice"}
+{"text": "How do weather satellites work?", "route": "knowledge"}
+{"text": "What is atmospheric instability?", "route": "knowledge"}
+{"text": "How do meteorologists predict rain?", "route": "knowledge"}
+{"text": "What causes winter fog in northern India?", "route": "knowledge"}
+{"text": "How do cyclones develop?", "route": "knowledge"}
+{"text": "Why can the temperature feel different from the reading?", "route": "knowledge"}
+{"text": "Why are days longer in summer?", "route": "knowledge"}
+{"text": "Why does hail form in strong thunderstorms?", "route": "knowledge"}
+{"text": "What does a weather station measure?", "route": "knowledge"}
+{"text": "Why does India have a monsoon season?", "route": "knowledge"}
+{"text": "What is wind chill?", "route": "knowledge"}
+{"text": "What is the heat index?", "route": "knowledge"}
+{"text": "Why can nights stay warm during a heatwave?", "route": "knowledge"}
+{"text": "How are clouds classified?", "route": "knowledge"}
+{"text": "How do thunderstorms become severe?", "route": "knowledge"}
+{"text": "What is a weather warning?", "route": "knowledge"}
+{"text": "What is El Nino?", "route": "knowledge"}
+{"text": "What causes sudden gusts of wind?", "route": "knowledge"}
+{"text": "How is climate change different from daily weather?", "route": "knowledge"}
+{"text": "What information goes into a weather forecast?", "route": "knowledge"}
+{"text": "Why can rainfall vary across nearby locations?", "route": "knowledge"}
+{"text": "Why do coastal areas have milder temperatures?", "route": "knowledge"}
+{"text": "How does air move around high pressure?", "route": "knowledge"}
+{"text": "What is the rain shadow effect?", "route": "knowledge"}
+{"text": "How accurate are seven-day forecasts?", "route": "knowledge"}
+{"text": "How does a thermometer measure temperature?", "route": "knowledge"}
+{"text": "What is the jet stream?", "route": "knowledge"}
+{"text": "What happens when a cold front arrives?", "route": "knowledge"}
+{"text": "Why are deserts dry?", "route": "knowledge"}
+{"text": "What causes lightning?", "route": "knowledge"}
+{"text": "What is cloud cover?", "route": "knowledge"}
+{"text": "What does a yellow weather alert mean?", "route": "knowledge"}
+{"text": "What is freezing rain?", "route": "knowledge"}
+{"text": "What is flash flooding?", "route": "knowledge"}
+{"text": "What is a weather radar?", "route": "knowledge"}
+{"text": "What is a weather front?", "route": "knowledge"}
+{"text": "What is the difference between a watch and a warning?", "route": "knowledge"}
+{"text": "What is the eye of a cyclone?", "route": "knowledge"}
+{"text": "How does humidity affect how hot we feel?", "route": "knowledge"}
+{"text": "How do mountains influence rainfall?", "route": "knowledge"}
+{"text": "What is an anemometer?", "route": "knowledge"}
+{"text": "How does humidity influence monsoon rainfall?", "route": "knowledge"}
+{"text": "How does evaporation affect the atmosphere?", "route": "knowledge"}
+{"text": "How does sea fog develop?", "route": "knowledge"}
+{"text": "How does a monsoon trough work?", "route": "knowledge"}
+{"text": "What causes morning mist?", "route": "knowledge"}
+{"text": "Why does fog reduce visibility?", "route": "knowledge"}
+{"text": "What is a heatwave?", "route": "knowledge"}
+{"text": "What is the dew point?", "route": "knowledge"}
+{"text": "What is a dust storm?", "route": "knowledge"}
+{"text": "Why does wind direction matter?", "route": "knowledge"}
+{"text": "Why do cities sometimes receive intense rainfall?", "route": "knowledge"}
+{"text": "Why does thunder follow lightning?", "route": "knowledge"}
+{"text": "What is a pressure gradient?", "route": "knowledge"}
+{"text": "What is atmospheric pressure?", "route": "knowledge"}
+{"text": "How do heatwaves affect the body?", "route": "knowledge"}
+{"text": "What is seasonal forecasting?", "route": "knowledge"}
+{"text": "What is a barometer used for?", "route": "knowledge"}
+{"text": "What is the greenhouse effect?", "route": "knowledge"}
+{"text": "What causes urban heat islands?", "route": "knowledge"}
+{"text": "How does a rainbow form?", "route": "knowledge"}
+{"text": "What are cumulonimbus clouds?", "route": "knowledge"}
+{"text": "How can ocean temperatures affect weather?", "route": "knowledge"}
+{"text": "What is an atmospheric river?", "route": "knowledge"}
+{"text": "Why can weather forecasts change?", "route": "knowledge"}
+{"text": "Why does hail occur during storms?", "route": "knowledge"}
+{"text": "What is a low-pressure system?", "route": "knowledge"}
+{"text": "Why does dew form on grass?", "route": "knowledge"}
+{"text": "Why do seasons occur?", "route": "knowledge"}
+{"text": "How is climate measured over decades?", "route": "knowledge"}
+{"text": "What is condensation?", "route": "knowledge"}
+{"text": "Why does low pressure often bring clouds?", "route": "knowledge"}
+{"text": "How do clouds produce rain?", "route": "knowledge"}
+{"text": "How does wind speed affect weather?", "route": "knowledge"}
+{"text": "What causes a cold wave?", "route": "knowledge"}
+{"text": "What is a normal climate baseline?", "route": "knowledge"}
+{"text": "How does soil moisture affect flooding?", "route": "knowledge"}
+{"text": "What does a rain gauge measure?", "route": "knowledge"}
+{"text": "What does probability of precipitation mean?", "route": "knowledge"}
+{"text": "What is La Nina?", "route": "knowledge"}
+{"text": "What is a warm front?", "route": "knowledge"}
+{"text": "What are cirrus clouds?", "route": "knowledge"}
+{"text": "What is the difference between sleet and hail?", "route": "knowledge"}
+{"text": "How are hurricanes different from tornadoes?", "route": "knowledge"}
+{"text": "Why is the sky blue?", "route": "knowledge"}
+{"text": "What is relative humidity?", "route": "knowledge"}
+{"text": "What is precipitation?", "route": "knowledge"}
+{"text": "How does snow form?", "route": "knowledge"}
+{"text": "How do scientists classify tropical cyclones?", "route": "knowledge"}
+{"text": "Why do some clouds look dark?", "route": "knowledge"}
+{"text": "What are stratus clouds?", "route": "knowledge"}

@@ -1,0 +1,63 @@
+# Secrets and environment configuration
+.env
+.env.*
+!.env.example
+!.env.sample
+secrets/
+*credentials*
+
+# Certificates and private keys
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Python environments
+.venv/
+.venv*/
+venv/
+env/
+
+# Generated model weights, binary checkpoints, and large assets
+*.safetensors
+*.pt
+*.pth
+*.bin
+*.onnx
+*.gguf
+*.zip
+backend/models/*/tokenizer.json
+
+# Python caches and compiled files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Test and coverage output
+.coverage
+.coverage.*
+htmlcov/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.backup
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# IDE and operating system
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Frontend dependencies and build output
+node_modules/
+dist/
+build/

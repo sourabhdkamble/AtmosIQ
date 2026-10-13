@@ -1,0 +1,51 @@
+{
+  "total_examples": 90,
+  "correct_predictions": 90,
+  "incorrect_predictions": 0,
+  "accuracy": 1.0,
+  "per_route": {
+    "air_quality": {
+      "total": 18,
+      "correct": 18,
+      "accuracy": 1.0
+    },
+    "current_weather": {
+      "total": 18,
+      "correct": 18,
+      "accuracy": 1.0
+    },
+    "forecast": {
+      "total": 18,
+      "correct": 18,
+      "accuracy": 1.0
+    },
+    "knowledge": {
+      "total": 18,
+      "correct": 18,
+      "accuracy": 1.0
+    },
+    "weather_advice": {
+      "total": 18,
+      "correct": 18,
+      "accuracy": 1.0
+    }
+  },
+  "confusion_matrix": {
+    "air_quality": {
+      "air_quality": 18
+    },
+    "current_weather": {
+      "current_weather": 18
+    },
+    "forecast": {
+      "forecast": 18
+    },
+    "knowledge": {
+      "knowledge": 18
+    },
+    "weather_advice": {
+      "weather_advice": 18
+    }
+  },
+  "errors": []
+}

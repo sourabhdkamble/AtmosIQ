@@ -1,0 +1,177 @@
+[
+  {
+    "id": 1,
+    "text": "Is the heat unbearable outside in Ahmedabad right now?",
+    "expected_route": "current_weather",
+    "category": "current_weather",
+    "notes": "Subjective sensation about current temperature"
+  },
+  {
+    "id": 2,
+    "text": "Current weather conditions in Chennai \u2014 is it raining at this moment?",
+    "expected_route": "current_weather",
+    "category": "current_weather",
+    "notes": "Current rain status with punctuation and phrasing variation"
+  },
+  {
+    "id": 3,
+    "text": "What is the humidity level in Kolkata this afternoon?",
+    "expected_route": "current_weather",
+    "category": "current_weather",
+    "notes": "Current afternoon humidity reading"
+  },
+  {
+    "id": 4,
+    "text": "Is there heavy wind blowing in Vizag right now?",
+    "expected_route": "current_weather",
+    "category": "current_weather",
+    "notes": "Real-time wind observation"
+  },
+  {
+    "id": 5,
+    "text": "Current temperature and cloud cover in Srinagar at this hour",
+    "expected_route": "current_weather",
+    "category": "current_weather",
+    "notes": "Multi-parameter real-time weather query"
+  },
+  {
+    "id": 6,
+    "text": "Will it rain this Sunday in Shimla?",
+    "expected_route": "forecast",
+    "category": "forecast",
+    "notes": "Specific upcoming day precipitation forecast"
+  },
+  {
+    "id": 7,
+    "text": "Can I expect strong thunderstorms across Delhi over the next 48 hours?",
+    "expected_route": "forecast",
+    "category": "forecast",
+    "notes": "48-hour severe weather forecast"
+  },
+  {
+    "id": 8,
+    "text": "What does the 7-day temperature trend look like for Jaipur?",
+    "expected_route": "forecast",
+    "category": "forecast",
+    "notes": "Extended 7-day multi-day trend"
+  },
+  {
+    "id": 9,
+    "text": "Is precipitation expected tomorrow morning in Panvel?",
+    "expected_route": "forecast",
+    "category": "forecast",
+    "notes": "Tomorrow morning specific window"
+  },
+  {
+    "id": 10,
+    "text": "Give me the hourly rain probability for Mumbai starting tonight",
+    "expected_route": "forecast",
+    "category": "forecast",
+    "notes": "Hourly progression forecast"
+  },
+  {
+    "id": 11,
+    "text": "What precautions should elderly citizens take during this winter wave in Chandigarh?",
+    "expected_route": "weather_advice",
+    "category": "weather_advice",
+    "notes": "Health and demographic-specific weather precautions"
+  },
+  {
+    "id": 12,
+    "text": "Is it safe to go cycling outdoors in heavy afternoon humidity in Nagpur?",
+    "expected_route": "weather_advice",
+    "category": "weather_advice",
+    "notes": "Outdoor activity safety advice given weather condition"
+  },
+  {
+    "id": 13,
+    "text": "Should I delay hanging my laundry outside given today's sky in Bengaluru?",
+    "expected_route": "weather_advice",
+    "category": "weather_advice",
+    "notes": "Domestic activity decision advice based on weather"
+  },
+  {
+    "id": 14,
+    "text": "What should a tourist pack for a high-altitude trip to Ladakh this week?",
+    "expected_route": "weather_advice",
+    "category": "weather_advice",
+    "notes": "Packing and clothing advice for weather"
+  },
+  {
+    "id": 15,
+    "text": "Do I need sunscreen and UV protection for a 2-hour outdoor run today in Goa?",
+    "expected_route": "weather_advice",
+    "category": "weather_advice",
+    "notes": "Sun protection and exercise advice"
+  },
+  {
+    "id": 16,
+    "text": "What is the real-time PM2.5 and PM10 reading around Anand Vihar station in Delhi?",
+    "expected_route": "air_quality",
+    "category": "air_quality",
+    "notes": "Specific monitoring station particulate matter reading"
+  },
+  {
+    "id": 17,
+    "text": "Is the air in Kanpur hazardous to breathe today according to CPCB standards?",
+    "expected_route": "air_quality",
+    "category": "air_quality",
+    "notes": "Health hazard query referring to CPCB scale"
+  },
+  {
+    "id": 18,
+    "text": "Check the National Air Quality Index category for Patna right now",
+    "expected_route": "air_quality",
+    "category": "air_quality",
+    "notes": "National AQI category lookup"
+  },
+  {
+    "id": 19,
+    "text": "How bad is the particulate matter smog in Lucknow this morning?",
+    "expected_route": "air_quality",
+    "category": "air_quality",
+    "notes": "Morning smog and particulate severity"
+  },
+  {
+    "id": 20,
+    "text": "Are sulfur dioxide and ozone levels elevated in Hyderabad today?",
+    "expected_route": "air_quality",
+    "category": "air_quality",
+    "notes": "Gaseous air pollutant concentration query"
+  },
+  {
+    "id": 21,
+    "text": "What physical process causes radiation fog to form in valleys during winter?",
+    "expected_route": "knowledge",
+    "category": "knowledge",
+    "notes": "Atmospheric physics explanation"
+  },
+  {
+    "id": 22,
+    "text": "Why does high relative humidity impair the human body's evaporative cooling?",
+    "expected_route": "knowledge",
+    "category": "knowledge",
+    "notes": "Biometeorology scientific concept"
+  },
+  {
+    "id": 23,
+    "text": "How do Western Disturbances bring winter rain to northern India?",
+    "expected_route": "knowledge",
+    "category": "knowledge",
+    "notes": "Indian climatology meteorological phenomenon"
+  },
+  {
+    "id": 24,
+    "text": "What is the difference between air quality index (AQI) and pollutant concentration (ug/m3)?",
+    "expected_route": "knowledge",
+    "category": "knowledge",
+    "notes": "Technical index vs mass concentration concept"
+  },
+  {
+    "id": 25,
+    "text": "Explain how the urban heat island effect amplifies nighttime temperatures in cities",
+    "expected_route": "knowledge",
+    "category": "knowledge",
+    "notes": "Urban climatology scientific mechanism"
+  }
+]
